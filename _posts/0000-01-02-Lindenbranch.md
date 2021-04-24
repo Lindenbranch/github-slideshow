@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Midnight productivity, my one and only super power! 
 Use the left arrow to go back!
